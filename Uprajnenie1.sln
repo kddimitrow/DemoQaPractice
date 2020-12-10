@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NUnitTestProject1", "NUnitTestProject1\NUnitTestProject1.csproj", "{781A569D-2CAA-4DF6-A6C4-BFD51A3DA862}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FillFormOpit", "FillFormOpit\FillFormOpit.csproj", "{37B98855-7A0C-46BA-B2F3-9C4BEDBAEF26}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{781A569D-2CAA-4DF6-A6C4-BFD51A3DA862}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{781A569D-2CAA-4DF6-A6C4-BFD51A3DA862}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{781A569D-2CAA-4DF6-A6C4-BFD51A3DA862}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{781A569D-2CAA-4DF6-A6C4-BFD51A3DA862}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37B98855-7A0C-46BA-B2F3-9C4BEDBAEF26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37B98855-7A0C-46BA-B2F3-9C4BEDBAEF26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37B98855-7A0C-46BA-B2F3-9C4BEDBAEF26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37B98855-7A0C-46BA-B2F3-9C4BEDBAEF26}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {002B3FE1-4457-4BC0-BCCA-A4272B5BBEA7}
+	EndGlobalSection
+EndGlobal
